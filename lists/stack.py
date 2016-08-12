@@ -1,5 +1,5 @@
 '''
-Stack implementation
+Stack implementation using Python lists
 '''
 class stack(object):
     elements = []
