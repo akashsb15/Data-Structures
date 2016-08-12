@@ -1,3 +1,6 @@
+'''
+Stack implementation
+'''
 class stack(object):
     elements = []
 

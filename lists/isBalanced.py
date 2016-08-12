@@ -1,3 +1,6 @@
+'''
+Check if given input of brackets is balanced
+'''
 from stack import *
 
 def isBalanced(string):
