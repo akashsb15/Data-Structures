@@ -5,3 +5,5 @@
 * stack_plist.py - Stack implementation with Python lists
 * stack_Dlist.py - Stack implementation using DList_tail.py
 * isBalanced.py - Simple application of stack data structure that checks if the brackets are properly closed
+* queue_plist.py - Queue implementation with Python lists
+* queue_Dlist.py - Queue implementation using DList_tail.py
