@@ -1,7 +1,7 @@
 '''
 This implementation of Linked Lists uses two pointers, head and tail, as
-a result of which the time complexity of certain functions are better than
-using a single pointer (head).
+a result of which the time complexity of certain functions, to be specific 
+popBack() and topBack() are better than when using a single pointer (head). 
 '''
 
 class Node(object):
