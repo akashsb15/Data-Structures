@@ -1,7 +1,7 @@
 '''
 Check if given input of brackets is balanced
 '''
-from stack import *
+from stack_plist import *
 
 def isBalanced(string):
     myStack = stack()
