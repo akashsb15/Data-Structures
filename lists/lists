@@ -1,0 +1,6 @@
+# This directory contains implementation of list data structures
+
+* LList_tail.py - Implementation of Singly Linked List with head and tail
+* DList_tail.py - Implementation of Doubly Linked List with head and tail
+* stack_plist.py - Stack implementation with Python lists
+* stack_Dlist.py - Stack implementation using DList_tail.py
